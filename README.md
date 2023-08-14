@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=qianxiao-heo&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <img align="center" alt="GIF" src="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> 
+  <a href="https://github.com/qianxiao-heo" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=qianxiao-heo&title_color=333&text_color=777" alt="qianxiao-heo's Stats" >
   </a>
+  <img src="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> 
 </p>
 <table align="center" style="table-layout: auto; width: 100%;">
     <tr>
