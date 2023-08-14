@@ -4,12 +4,12 @@
   </a>
 </h1>
 <p align="center">
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anzhiyu-c&theme=dark&hide_border=true" />
-  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
+  <img src="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> 
 </p>
 <p align="center">
-  <img src="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> 
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qianxiao-heo&theme=dark&hide_border=true" />
+  <img width="150" src="https://npm.elemecdn.com/anzhiyu-assets/image/common/github-info/right-wing.png" />
 </p>
 <table align="center" style="table-layout: auto; width: 100%;">
     <tr>
